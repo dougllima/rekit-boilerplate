@@ -48,6 +48,7 @@
     "express-history-api-fallback": "^2.2.1",
     "file-loader": "^1.1.6",
     "history": "^4.7.2",
+    "jquery": "3.3.1",
     "jsdom": "^11.5.1",
     "less": "^2.7.3",
     "less-loader": "^4.0.5",
